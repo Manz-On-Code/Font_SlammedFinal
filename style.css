@@ -1,0 +1,24 @@
+canvas
+{
+    border: 5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 100px;
+    margin-left: 120px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: black;
+    bottom: 0;
+    background-color: khaki;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 1.5px 1.5px  paleturquoise;
+}
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    }
